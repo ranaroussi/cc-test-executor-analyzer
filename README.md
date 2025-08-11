@@ -15,12 +15,11 @@ A Claude Code agent that runs tests and analyzes results **without polluting you
 
 ## Usage
 ```
-"Run the authentication e2e tests and analyze any issues"
-"The workflow tests keep failing - can you investigate?"
+@agent-test-executor-analyzer run the authentication test
 ```
 
 ## Output
 - **To conversation**: Clean summary with critical issues and fixes
-- **To log files**: Complete test output for detailed debugging
+- **To log files**: Complete test output for detailed debugging saved in `tests/logs`
 
 Perfect for keeping your main Claude conversation focused while still getting comprehensive test analysis and keeping the raw data available.
