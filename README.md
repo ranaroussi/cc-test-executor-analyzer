@@ -23,3 +23,9 @@ A Claude Code agent that runs tests and analyzes results **without polluting you
 - **To log files**: Complete test output for detailed debugging saved in `tests/logs`
 
 Perfect for keeping your main Claude conversation focused while still getting comprehensive test analysis and keeping the raw data available.
+
+---
+
+> [!TIP]
+> Get actionable tips, real-world strategies, and insider stories on coding, indie hacking, finance, and solo entrepreneurship.<br>
+> Sign up to my newsletter 👉 https://aroussi.com/subscribe
